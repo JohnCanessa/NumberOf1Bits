@@ -12,7 +12,7 @@ If interested in this problem please read the description in
 the LeetCode web site. If interested in my comments I invite
 you to read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/12/10/leetcode-191-number-of-1-bits-in-java/
 
 Keep in mind that one of the best ways to lear is to read 
 and experiment. I would like to it the word repeat.
